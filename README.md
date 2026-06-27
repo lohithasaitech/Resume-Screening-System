@@ -20,3 +20,4 @@ This project is a Machine Learning and NLP based Resume Screening System.
 
 ## Output
 The system compares resumes with a job description, calculates a similarity score, ranks candidates, and identifies missing skills.
+
